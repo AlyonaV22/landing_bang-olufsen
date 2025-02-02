@@ -1,19 +1,19 @@
-@import './utils/variables';
-@import './utils/mixins';
+@use './utils/variables';
+@use './utils/mixins';
 
-@import './blocks/header';
-@import './blocks/page';
-@import './blocks/top-bar';
-@import './blocks/icon';
-@import './blocks/menu';
-@import './blocks/nav';
-@import './blocks/main';
-@import './blocks/section-title';
-@import './blocks/product';
-@import './blocks/recommended';
-@import './blocks/about-us';
-@import './blocks/categories';
-@import './blocks/contacts';
+@use './blocks/header';
+@use './blocks/page';
+@use './blocks/top-bar';
+@use './blocks/icon';
+@use './blocks/menu';
+@use './blocks/nav';
+@use './blocks/main';
+@use './blocks/section-title';
+@use './blocks/product';
+@use './blocks/recommended';
+@use './blocks/about-us';
+@use './blocks/categories';
+@use './blocks/contacts';
 
 
 .footer {

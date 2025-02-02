@@ -1,3 +1,5 @@
+@use '../utils/variables' as *;
+@use '../utils/mixins' as *;
 .main {
   background-color: $light-color;
   &__content {
