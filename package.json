@@ -1,5 +1,5 @@
 {
-  "name": "landing_bo",
+  "name": "landing_bang-olufsen",
   "source": "index.html",
   "scripts": {
     "style": "sass --watch styles/style.scss styles/style.css",
